@@ -1,5 +1,5 @@
 Skeleton is an ongoing project to document and compare cloud hosting
-solutions for an app in [Node](https://nodejs.org).
+solutions for an app in [Python](https://python.org).
 
 Skeleton features:
 
